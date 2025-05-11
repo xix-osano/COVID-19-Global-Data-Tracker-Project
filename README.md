@@ -9,13 +9,13 @@
 * ✅ Communicate findings in a Jupyter Notebook or PDF report
 
 ## **TOOLS AND LIBRARIES USED**
-### Pandas
-### Matplotlib
-### Plotly Express
-### Seaborn
-### Numpy
-### Datetime
-### Jupyter Notebook
+* Pandas
+* Matplotlib
+* Plotly Express
+* Seaborn
+* Numpy
+* Datetime
+* Jupyter Notebook
 
 ## **How to run/view the project**
 ### Clone the project
